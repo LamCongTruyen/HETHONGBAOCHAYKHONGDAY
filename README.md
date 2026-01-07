@@ -7,8 +7,7 @@ Cảm ơn bạn đã quan tâm.
 
 link youtube sản phẩm thực tế: https://www.youtube.com/watch?v=9XmNNI_ictI&t=360s
 
-link driver:  https://drive.google.com/file/d/1gQvd7Rgve1o5Kccb5ht1XATMJUTTfpj8/view?usp=sharing
-
+Hình ảnh các lưu đồ giải thuật trong dự án:
 ![image](https://github.com/user-attachments/assets/340d3f20-0ae5-4735-8d5d-fe50a55cbfed)
 
 ![image](https://github.com/user-attachments/assets/69618bbf-9572-4377-b6bc-d9b05ef49fd7)
