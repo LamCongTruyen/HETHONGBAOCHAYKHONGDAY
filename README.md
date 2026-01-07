@@ -5,7 +5,21 @@ Tôi có để link driver dự án và để biết rõ hơn về dự án hãy
 
 Cảm ơn bạn đã quan tâm.
 
-link youtube sản phẩm thực tế: https://www.youtube.com/watch?v=9XmNNI_ictI&t=360s
+Link youtube sản phẩm thực tế: https://www.youtube.com/watch?v=9XmNNI_ictI&t=360s
+
+Link báo cáo: https://drive.google.com/file/d/1TLrpUtUKlDipkhAk3_l7BEOIeXYJR-RQ/view?usp=sharing
+
+Hình ảnh sản phẩm thực tế:
+
+![giaodienaphancungcadcam](https://github.com/user-attachments/assets/ce0c7961-0d5d-4152-82fd-e058276a3ad6)
+
+![giaodienaphancungcadcam2](https://github.com/user-attachments/assets/5d4b85b3-1adf-45d2-8b4a-8b4bd6c4dd9e)
+
+Hình ảnh giao diện ứng dụng Android:
+
+![giaodienappcadcam](https://github.com/user-attachments/assets/c65655ad-58e0-4a73-a0b3-389a548ba2a6)
+
+![giaodienappcadcam2](https://github.com/user-attachments/assets/6d92c69c-70c8-443b-829b-ebce29c73c86)
 
 Hình ảnh các lưu đồ giải thuật trong dự án:
 ![image](https://github.com/user-attachments/assets/340d3f20-0ae5-4735-8d5d-fe50a55cbfed)
